@@ -4,7 +4,7 @@ class ProductsController < ApplicationController
   end 
   
   def add 
-    render 
+    render :index 
   end 
   
 end 
